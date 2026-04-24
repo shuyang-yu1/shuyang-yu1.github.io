@@ -6,12 +6,10 @@ subtitle:
 
 profile:
   align: Right
-  image: YuMei_800.jpg
+  image: prof_pic.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p>meiyu1 (at) msu (dot) edu</p>
-    <p>Michigan State University</p>
-    <p>East Lansing, MI, 48823, USA</p>
+    <p>Shuyang Yu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
