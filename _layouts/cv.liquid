@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% if page.cv_pdf %}
+  <script>
+    window.location.href = "{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | relative_url }}{% endif %}";
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url={% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | relative_url }}{% endif %}">
+  </noscript>
+{% endif %}
