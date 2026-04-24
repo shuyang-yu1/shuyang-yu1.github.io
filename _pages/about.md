@@ -10,6 +10,8 @@ profile:
   image_circular: False # crops the image to make it circular
   more_info: >
     <p>Shuyang Yu</p>
+    <p>Michigan State University</p>
+    <p>East Lansing, MI, 48823, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
