@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-05-13'
 papers:
   vZW8lI8AAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -10,15 +10,19 @@ papers:
     title: Physics-Informed Online Estimation of Stiffness and Shape of Soft Robotic Manipulators
     year: '2023'
   vZW8lI8AAAAJ:5nxA0vEk-isC:
-    citations: 1
+    citations: 3
     title: Fast Online Adaptive Neural MPC via Meta-Learning
     year: '2025'
+  vZW8lI8AAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Dynamic Modeling and Robust Gait Optimization of a Compliant Worm Robot
+    year: '2026'
   vZW8lI8AAAAJ:9yKSN-GCB0IC:
     citations: 10
     title: Semi-physical modeling of soft pneumatic actuators with stiffness tuning
     year: '2023'
   vZW8lI8AAAAJ:IjCSPb-OGe4C:
-    citations: 7
+    citations: 9
     title: Design and nonlinear modeling of a modular cable-driven soft robotic arm
     year: '2024'
   vZW8lI8AAAAJ:Se3iqnhoufwC:
@@ -34,11 +38,11 @@ papers:
     title: Soft Pressure Sensor Array
     year: '2024'
   vZW8lI8AAAAJ:Y0pCki6q_DkC:
-    citations: 9
+    citations: 11
     title: Simultaneous shape reconstruction and force estimation of soft bending actuators using distributed inductive curvature sensors
     year: '2024'
   vZW8lI8AAAAJ:YsMSGLbcyi4C:
-    citations: 9
+    citations: 11
     title: Mechanical design and data-enabled predictive control of a planar soft robot
     year: '2024'
   vZW8lI8AAAAJ:eQOLeE2rZwMC:
@@ -46,7 +50,7 @@ papers:
     title: "Error compensation in a redundant system during \u2018failure\u2019of individual motor elements"
     year: '2025'
   vZW8lI8AAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: 'AFT: Appearance-Based Feature Tracking for Markerless and Training-Free Shape Reconstruction of Soft Robots'
     year: '2025'
   vZW8lI8AAAAJ:roLk4NBRz8UC:
