@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-29'
 papers:
   vZW8lI8AAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -25,12 +25,16 @@ papers:
     citations: 9
     title: Design and nonlinear modeling of a modular cable-driven soft robotic arm
     year: '2024'
+  vZW8lI8AAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: 'BiPneu: Design and Control of a Bipolar-Pressure Pneumatic System for Soft Robots'
+    year: '2026'
   vZW8lI8AAAAJ:Se3iqnhoufwC:
     citations: 0
     title: Velocity-Form Data-Enabled Predictive Control of Soft Robots under Unknown External Payloads
     year: '2025'
   vZW8lI8AAAAJ:UebtZRa9Y70C:
-    citations: 11
+    citations: 12
     title: Simultaneous motion and stiffness control for soft pneumatic manipulators based on a Lagrangian-based dynamic model
     year: '2023'
   vZW8lI8AAAAJ:W7OEmFMy1HYC:
