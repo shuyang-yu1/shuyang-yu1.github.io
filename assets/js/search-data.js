@@ -499,28 +499,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%65%69%79%75%31@%6D%73%75.%65%64%75", "_blank");
+          window.open("mailto:%79%75%73%68%75%79%61%6E@%6D%73%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/yu-mei", "_blank");
+          window.open("https://github.com/shuyang-yu1", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/yu-mei-b80099180", "_blank");
+          window.open("https://www.linkedin.com/in/shuyang-yu-713b111a1", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=vZW8lI8AAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=ftBPf3oAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
