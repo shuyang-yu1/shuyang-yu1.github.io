@@ -140,11 +140,7 @@ nav_order: 4
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://icdm22.cse.usf.edu/"
-           target="_blank"
-           rel="noopener">
-          IEEE International Conference on Data Mining (ICDM), Orlando, FL
-        </a>
+        IEEE International Conference on Data Mining (ICDM), Orlando, FL
       </span>
     </td>
     <td class="services-year">2022</td>
