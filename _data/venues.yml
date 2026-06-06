@@ -26,10 +26,10 @@
   color: "#2e7d32"
 
 "ICLR":
-  color: "#005f73"
+  color: "#bde0fe"
 
 "ICML":
-  color: "#9b2226"
+  color: "#ffd6a5"
 
 "NAACL":
   color: "#0a9396"
@@ -38,10 +38,10 @@
   color: "#2e7d32"
 
 "Workshop":
-  color: "#7f4f24"
+  color: "#e9d8a6"
 
 "NeurIPS Regulatable ML workshop":
-  color: "#7f4f24"
+  color: "#e9d8a6"
 
 "Preprint":
   color: "#7a7a7a"
