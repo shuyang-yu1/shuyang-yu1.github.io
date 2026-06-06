@@ -8,17 +8,17 @@ nav_order: 4
 
 <div class="services-page" markdown="1">
 
-### Invited Reviewer
+### Journal/Conference Review
 ---
 
 <table class="services-table">
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://www.ieee-asme-mechatronics.info/"
+        <a href="https://neurips.cc/"
            target="_blank"
            rel="noopener">
-          IEEE/ASME Transactions on Mechatronics (TMech)
+          Neural Information Processing Systems (NeurIPS)
         </a>
       </span>
     </td>
@@ -28,213 +28,127 @@ nav_order: 4
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://www.ieee-ras.org/publications/ra-l/"
-            target="_blank"
-            rel="noopener">
-          IEEE Robotics and Automation Letters (RAL)
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2026</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="https://www.ieee-ras.org/publications/t-ase/"
-            target="_blank"
-            rel="noopener">
-          IEEE Transactions on Automation Science and Engineering (TASE)
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2026</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="https://www.sciencedirect.com/journal/robotics-and-autonomous-systems"
+        <a href="https://kdd.org/"
            target="_blank"
            rel="noopener">
-          Robotics and Autonomous Systems (RAS)
+          ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
         </a>
       </span>
     </td>
-    <td class="services-year">2025</td>
+    <td class="services-year">2022, 2024</td>
   </tr>
 
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://link.springer.com/journal/11071"
+        <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"
            target="_blank"
            rel="noopener">
-          Nonlinear Dynamics
+          IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
         </a>
       </span>
     </td>
-    <td class="services-year">2025</td>
+    <td class="services-year"></td>
   </tr>
 
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://ieee-sensors.org/ieee-sensors-journal/"
+        <a href="https://www.computer.org/csdl/journal/tk"
            target="_blank"
            rel="noopener">
-          IEEE Sensors Journal
+          IEEE Transactions on Knowledge and Data Engineering (TKDE)
         </a>
       </span>
     </td>
-    <td class="services-year">2025</td>
+    <td class="services-year"></td>
   </tr>
 
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://asmedigitalcollection.asme.org/dynamicsystems"
+        <a href="https://www.siam.org/conferences-events/siam-conferences/sdm/"
            target="_blank"
            rel="noopener">
-          ASME Journal of Dynamic Systems, Measurement and Control (JDSMC)
+          SIAM International Conference on Data Mining (SDM)
         </a>
       </span>
     </td>
-    <td class="services-year">2025</td>
+    <td class="services-year"></td>
   </tr>
 
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://www.nature.com/srep/"
+        <a href="https://www.sciencedirect.com/journal/neurocomputing"
            target="_blank"
            rel="noopener">
-          Scientific Reports
+          Neurocomputing
         </a>
       </span>
     </td>
-    <td class="services-year">2025, 2026</td>
+    <td class="services-year"></td>
   </tr>
 
   <tr>
     <td>
       <span class="svc-item">
-        <a href="https://www.frontiersin.org/journals/robotics-and-ai"
+        <a href="https://dl.acm.org/journal/health"
            target="_blank"
            rel="noopener">
-          Frontiers of Robots and AI
+          ACM Transactions on Computing for Healthcare
         </a>
       </span>
     </td>
-    <td class="services-year">2024</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="https://link.springer.com/journal/13177"
-           target="_blank"
-           rel="noopener">
-          International Journal of Intelligent Transportation Systems Research
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2025</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="https://aimrl.gatech.edu/AIM.htm"
-           target="_blank"
-           rel="noopener">
-          IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2025</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="https://link.springer.com/collections/facgjegaii"
-           target="_blank"
-           rel="noopener">
-          IEEE International Conference on Rehabilitation Robotics (ICORR)
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2025</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="https://a2c2.org/events/modeling-estimation-and-control-conference"
-           target="_blank"
-           rel="noopener">
-          Modeling, Estimation, and Control Conference (MECC)
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2024, 2025</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="http://softroboticsconference.org/"
-           target="_blank"
-           rel="noopener">
-          IEEE International Conference on Soft Robotics (RoboSoft)
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2024</td>
-  </tr>
-
-  <tr>
-    <td>
-      <span class="svc-item">
-        <a href="https://a2c2.org/"
-           target="_blank"
-           rel="noopener">
-          American Control Conference (ACC)
-        </a>
-      </span>
-    </td>
-    <td class="services-year">2023, 2026</td>
+    <td class="services-year"></td>
   </tr>
 </table>
 
 
-### Committee Service
+### Program Committee Member
 ---
 
 <table class="services-table">
-    <tr>
+  <tr>
     <td>
-        <span class="svc-item">
-        Vice Chair,
-        <a href="https://ieeemsu.org/"
-            target="_blank"
-            rel="noopener">
-            IEEE MSU Student Branch
+      <span class="svc-item">
+        <a href="https://ecmlpkdd.org/"
+           target="_blank"
+           rel="noopener">
+          European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)
         </a>
-        </span>
+      </span>
     </td>
-    <td class="services-year">2023 – 2024</td>
-    </tr>
-    <tr>
-        <td><span class="svc-item">Student Representative, Engineering Graduate Studies Committee, MSU</span></td>
-        <td class="services-year">2024 – 2025</td>
-    </tr>
-    <tr>
-        <td><span class="svc-item">Organizing Committee Member, IEEE Southeastern Michigan Fall 2023 Conference</span></td>
-        <td class="services-year">2023</td>
-    </tr>
+    <td class="services-year">2026</td>
+  </tr>
 
+  <tr>
+    <td>
+      <span class="svc-item">
+        FedKDD: International Joint Workshop on Federated Learning for Data Mining and Graph Analytics
+      </span>
+    </td>
+    <td class="services-year">2024</td>
+  </tr>
+</table>
+
+
+### Conference Volunteer
+---
+
+<table class="services-table">
+  <tr>
+    <td>
+      <span class="svc-item">
+        <a href="https://icdm22.cse.usf.edu/"
+           target="_blank"
+           rel="noopener">
+          IEEE International Conference on Data Mining (ICDM), Orlando, FL
+        </a>
+      </span>
+    </td>
+    <td class="services-year">2022</td>
+  </tr>
 </table>
 
 </div>
