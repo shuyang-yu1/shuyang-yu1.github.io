@@ -22,6 +22,36 @@
 "MECC":
   color: "#2e7d32"
 
+"KDD":
+  color: "#2e7d32"
+
+"ICLR":
+  color: "#3f51b5"
+
+"ICML":
+  color: "#3f51b5"
+
+"NAACL":
+  color: "#3f51b5"
+
+"ICDM":
+  color: "#2e7d32"
+
+"Workshop":
+  color: "#6a5acd"
+
+"Preprint":
+  color: "#7a7a7a"
+
+"Thesis":
+  color: "#7a7a7a"
+
+"TNNLS":
+  color: "#8b1e1e"
+
+"PR":
+  color: "#c94a4a"
+
 "LCSS":
   color: "#c94a4a"
 
