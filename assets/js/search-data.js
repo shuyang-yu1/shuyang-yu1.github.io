@@ -523,13 +523,6 @@ ninja.data = [{
           window.open("mailto:%79%75%73%68%75%79%61%6E@%6D%73%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/shuyang-yu1", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
