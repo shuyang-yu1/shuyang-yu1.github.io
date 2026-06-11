@@ -226,9 +226,19 @@
       </div>
     {% endif %}
 
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
+    {% if entry.note %}
+      {% assign note_text = entry.note | strip %}
+      {% if note_text contains 'Spotlight' %}
+        <div class="paper-highlight spotlight-note">
+          <i class="fa-solid fa-star" aria-hidden="true"></i>
+          <span>{{ note_text }}</span>
+        </div>
+      {% else %}
+        <div class="periodical">
+          {{ note_text }}
+        </div>
+      {% endif %}
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
