@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-17'
 papers:
   ftBPf3oAAAAJ:9yKSN-GCB0IC:
-    citations: 8
+    citations: 9
     title: Tackle balancing constraint for incremental semi-supervised support vector learning
     year: '2019'
   ftBPf3oAAAAJ:Tyk-4Ss8FVUC:
@@ -46,10 +46,10 @@ papers:
     title: A kernel path algorithm for general parametric quadratic programming problem
     year: '2021'
   ftBPf3oAAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: Fast Online Adaptive Neural MPC via Meta-Learning
     year: '2025'
   ftBPf3oAAAAJ:zYLM7Y9cAGgC:
-    citations: 20
+    citations: 21
     title: Who leaked the model? tracking ip infringers in accountable federated learning
     year: '2023'
