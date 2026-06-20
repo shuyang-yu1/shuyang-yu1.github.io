@@ -22,7 +22,7 @@ announcements:
   limit:  # leave blank to include all the news in the `_news` folder
 ---
 
-I am Shuyang Yu (於舒扬), a Research Scientist in the Machine Learning group at Samsung Electronics America. I received my Ph.D. in Computer Science from [Michigan State University](https://msu.edu/) in 2025, where I was advised by [Prof. Jiayu Zhou](https://jiayuzhou.github.io/) (currently at the University of Michigan).
+I am Shuyang Yu (於舒扬), a Machine Learning Scientist in the Machine Learning group at Samsung Electronics America. I received my Ph.D. in Computer Science from [Michigan State University](https://msu.edu/) in 2025, where I was advised by [Prof. Jiayu Zhou](https://jiayuzhou.github.io/) (currently at the University of Michigan).
 
 My research focuses on building robust and trustworthy AI systems that remain reliable under real-world challenges such as distribution shift, data corruption, data scarcity, and adversarial threats. I am especially interested in methods that help modern AI systems move beyond benchmark performance toward reliable behavior in long-tail, noisy, and high-stakes settings.
 
