@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-29'
 papers:
   ftBPf3oAAAAJ:9yKSN-GCB0IC:
     citations: 9
@@ -10,11 +10,11 @@ papers:
     title: Safe and robust watermark injection with a single ood image
     year: '2024'
   ftBPf3oAAAAJ:UeHWp8X0CEIC:
-    citations: 21
+    citations: 22
     title: Revisiting Data-Free Knowledge Distillation with Poisoned Teachers
     year: '2023'
   ftBPf3oAAAAJ:W7OEmFMy1HYC:
-    citations: 8
+    citations: 10
     title: 'Dynamic Uncertainty Ranking: Enhancing In-Context Learning for Long-Tail Knowledge in LLMs'
     year: '2025'
   ftBPf3oAAAAJ:WF5omc3nYNoC:
@@ -25,6 +25,10 @@ papers:
     citations: 5
     title: Global Model Selection for Semi-Supervised Support Vector Machine via Solution Paths
     year: '2024'
+  ftBPf3oAAAAJ:_FxGoFyzp5QC:
+    citations: 1
+    title: Towards stability of parameter-free optimization
+    year: '2026'
   ftBPf3oAAAAJ:d1gkVwhDpl0C:
     citations: 30
     title: Turning the curse of heterogeneity in federated learning into a blessing for out-of-distribution detection
@@ -38,7 +42,7 @@ papers:
     title: Robust Unsupervised Domain Adaptation from A Corrupted Source
     year: '2022'
   ftBPf3oAAAAJ:u-x6o8ySG0sC:
-    citations: 82
+    citations: 84
     title: Federated adversarial debiasing for fair and transferable representations
     year: '2021'
   ftBPf3oAAAAJ:u5HHmVD_uO8C:
@@ -46,7 +50,7 @@ papers:
     title: A kernel path algorithm for general parametric quadratic programming problem
     year: '2021'
   ftBPf3oAAAAJ:ufrVoPGSRksC:
-    citations: 6
+    citations: 7
     title: Fast Online Adaptive Neural MPC via Meta-Learning
     year: '2025'
   ftBPf3oAAAAJ:zYLM7Y9cAGgC:
